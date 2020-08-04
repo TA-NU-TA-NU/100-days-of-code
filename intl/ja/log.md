@@ -1,19 +1,14 @@
 # 100 Days Of Code - 学習ログ
 
-### 0日目: 2016年2月28日
+### 0日目: 2020年8月4日
 
-**今日の進捗**: 計算機アプリのCSSを修正して、canvasの機能に取り掛かった。
+**今日の進捗**: Atcoder AC * 3
 
-**思ったこと** CSSにはとても苦労したけど、少しずつ上達してきてる気がする。Canvasはまだ始めたばっかりだけど、基本的な機能はいくつか理解できてきた。
+**思ったこと** 
+ABC166 C - Peaks -> グラフを展開できるので依然躓いて学んだ辺をノードごとの集合に集約させるコードの応用でinputできた！
+ABC166 D - I hate Factorization -> 展開するとか考える前に全探索を試そうと思い制約がヒントになりそうなのを察することができた！
+                                   でもどれ位の範囲を全探索すればいいのかの当たりをつけるのにまごついた…
+※放置していたGitをまともに使ったのはこれが初…Gitも学ばねば！
 
-**リンク** [計算機アプリ](http://www.example.com)
-
-### 1日目: 2016年6月27日（月）
-
-**今日の進捗**: FreeCodeCampの演習をたくさん進めた。
-
-**思ったこと** プログラミングを始めたばかりだから、何時間もかけてやっとアルゴリズムのチャレンジが解けるとめちゃくちゃ気持ちいい！
-
-**リンク**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**リンク** 
+>>たぬ( @Tanu_ChanChan )
