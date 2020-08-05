@@ -12,7 +12,7 @@
 ※放置していたGitをまともに使ったのはこれが初…Gitも学ばねば！
 
 **リンク** 
-たぬ( @Tanu_ChanChan )
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
 
 ***
 ### 1日目: 2020年8月5日
@@ -33,4 +33,4 @@
   * git - このページで使ってるマークダウン記法について
 
 **リンク** 
-たぬ( @Tanu_ChanChan )
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
