@@ -34,3 +34,16 @@
 
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 2日目: 2020年8月6日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 4
+  
+**思ったこと** 
+  * ABC162 C - Sum of gcd of Tuples (Easy) -> O(N^3)の全探索＆GCDの愚直解でAC！おおよそ制約からいけると考えながら実装したけど自信はなかった…
+  * ABC162 D - RGB Triplets -> 『j - i ≠ k - j を「満たす」』 -> 『j - i = k - j を「満たさない」』として合計から除外していく方針に気づけなかった。条件の言い換えは重要ポイント。
+  
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
