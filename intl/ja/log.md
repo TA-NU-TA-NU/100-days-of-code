@@ -47,3 +47,17 @@
   
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 3日目: 2020年8月7日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 4
+  
+**思ったこと** 
+  * ABC159 C - Maximum Volume -> 丸め誤差を抑制するほうほうとして有効桁数と丸め方法を指定するためのメソッドMathContextを学ぶ。
+  `MathContext mc = new MathContext(10,RoundingMode.HALF_UP);`みたいに書くらしい。
+  * ABC159 D - Banned K -> なんとかAC。いかにしてforをなくすかが重要な着眼点。具体化と抽象化を行き来することが上手になれるともっと問題への対応速度が上がりそう。
+  
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
