@@ -61,3 +61,16 @@
   
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 4日目: 2020年8月8日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 5
+  
+**思ったこと** 
+  * パナソニックプログラミングコンテスト2020 C - Sqrt Inequality -> 丸め誤差との戦いになりそうな問題だとは思っていた。√を外すひと工夫が必要
+  * ABC158 C - Tax Increase -> O(1)の解法で考えていてすごい時間がかかるそしてすんごいきたない。愚直解を考えれば早かった。
+  
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
