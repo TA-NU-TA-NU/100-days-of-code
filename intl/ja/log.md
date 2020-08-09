@@ -74,3 +74,16 @@
   
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 5日目: 2020年8月9日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 3
+  
+**思ったこと** 
+  * ABC158 D - String Formation -> StringBuilderは文字列問題に強くてはやい。ほんとにイケメン過ぎてヤバイ。なかったらちょっとめんどいぞこの問題。
+  * ABC157 C - Guess The Number -> 丁寧に条件分岐させてあげれば解ける問題。詰めが甘くてテストケースにやられる。
+  
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
