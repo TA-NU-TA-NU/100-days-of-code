@@ -87,3 +87,15 @@
   
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 6日目: 2020年8月10日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 9
+  
+**思ったこと** 
+  * ABC154 D - Dice in Line -> 解説AC。累積和使いそうなのはわかってたけど案の定期待値計算に手間取る。さいころの出目の期待値の出し方がわかった後は実装に困ることはなかった。
+  
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
