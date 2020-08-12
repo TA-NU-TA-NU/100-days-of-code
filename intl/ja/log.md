@@ -114,3 +114,15 @@
   
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 8日目: 2020年8月12日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 7
+  
+**思ったこと** 
+  * ABC149 D - Prediction and Restriction -> 解説AC。Kmodで互いに干渉しないゲームを分けて考える。という切り口があるのだと知った。また、この問題を貪欲法とDPによる解法それぞれでといてみた。いずれの解き方もKmodを糸口に手の出し方について分析して最善の手を出すように実装する。正直、本番でこれがでたら解ける自信はないとかんじた。
+  
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
