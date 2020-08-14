@@ -1,0 +1,37 @@
+package test;
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		long A = sc.nextLong();
+		long B = sc.nextLong();
+		long X = sc.nextLong();
+
+		long N = 1000000000;
+
+		long left =0;
+		long right =N;
+		long mid;
+		if (X >= N * A + B * String.valueOf(N).length()) {
+			System.out.println(N);
+		}else {
+			while (right - left > 1) {
+				mid = left + (right - left) / 2;
+				if (X >= mid * A + B * String.valueOf(mid).length()) {
+					left = mid;
+				}else {
+					right = mid;
+				}
+			}
+
+			if (left < 1) {
+				System.out.println(0);
+			}else {
+				System.out.println(left);
+			}
+		}
+
+	}
+}
