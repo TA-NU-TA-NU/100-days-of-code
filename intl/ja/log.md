@@ -138,3 +138,15 @@
   
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 10日目: 2020年8月14日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 2
+  
+**思ったこと** 
+  * ABC146 C - Buy an Integer -> いざというときに出せないにぶたん。さらににぶたんをバグらせまくる。leftは常に条件内。区間を狭めきったleftが条件を満たす境界点。
+  
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
