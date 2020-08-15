@@ -150,3 +150,15 @@
   
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 11日目: 2020年8月15日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 4 (今日の ABC175 が 3)
+  
+**思ったこと** 
+  * ABC175 -> Cまでは安定して早く解くのが大事！Dも打率を上げていく！
+  
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
