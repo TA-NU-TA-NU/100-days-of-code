@@ -162,3 +162,15 @@
   
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 12日目: 2020年8月16日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 1 
+  
+**思ったこと** 
+  * ABC175 D - Moving Piece-> とけてないよー！どうすれば最適なのかはわかっているけど実装がつらすぎる！これは長丁場になりそうだ…AtcoderProblemのStreakをつなぐために適当なA問題で本日はお茶を濁す。魔法の言葉は明日から本気出す！
+  
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
