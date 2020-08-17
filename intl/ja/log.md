@@ -174,3 +174,15 @@
   
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 13日目: 2020年8月17日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 2
+  
+**思ったこと** 
+  * ABC175 D - Moving Piece-> とけたー！関数化したらもうちょいよくなるだろうけどとりあえずAC！やっぱり実装がむずい。複数の条件や例外、場合分けが存在するとうまく統合できずにしっちゃかめっちゃかになってしまうのかも…。
+  
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
