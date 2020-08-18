@@ -186,3 +186,15 @@
   
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 14日目: 2020年8月18日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 2
+  
+**思ったこと** 
+  * ABC145 C - Average Length-> 順列を使う問題って結構出るけど、javaではcppのnextpermutationはないみたいだから自前でライブラリ作ってあげなきゃなっておもった。
+  
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
