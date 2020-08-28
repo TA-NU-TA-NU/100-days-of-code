@@ -323,3 +323,17 @@
  
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 24日目: 2020年8月28日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 3
+  * ・問題から解法を立てる練習
+  
+**思ったこと**  
+ * 早解き-> あんまりできてない。Pair型がjavaにはなくてつらいいー
+ * 問題から解法を立てる練習->　制約みたりしたらいけたりする問題もあるのよね…気づけー
+ 
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
