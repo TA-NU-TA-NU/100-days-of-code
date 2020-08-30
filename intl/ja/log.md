@@ -350,3 +350,15 @@
  
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 26日目: 2020年8月30日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 3
+  
+**思ったこと**  
+ * AGC021 A - Digit Sum 2 ->場合分けに気づけなくてWAさす。スピードを求めると自分の考えたロジックの反例を出すことができないためこういうパターンで足元すくわれるね。 
+ 
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
