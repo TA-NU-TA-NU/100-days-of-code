@@ -362,3 +362,16 @@
  
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 27日目: 2020年8月31日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 4
+  
+  
+**思ったこと**  
+ * AGC021A - Ice Tea Store ->DPかとおもったら違ったやーつ。理論上はパターンの全列挙は可能でもステップが下に深くなるうえに再利用がしにくいためオーバーフローする。
+ 
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
