@@ -402,3 +402,16 @@
  
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 30日目: 2020年9月3日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 4
+  * ・DPについて
+  
+**思ったこと**  
+ * DP -> ひたすらDP練習。まだまだ実装がへたくそだけど、DP全体の目的、終端の最適性（たいていの場合一意）とその前のフェーズの最適性(親ノードと子ノードの関係性の評価)
+ 
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
