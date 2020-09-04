@@ -415,3 +415,15 @@
  
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 31日目: 2020年9月4日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 4
+
+**思ったこと**  
+   * ・数値列を文字列として扱うという柔軟な発想大事
+ 
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
