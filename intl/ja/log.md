@@ -427,3 +427,15 @@
  
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 32日目: 2020年9月5日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 2
+
+**思ったこと**  
+   * atcoder problems Boot camp for Beginners Easy　100％できたー
+ 
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
