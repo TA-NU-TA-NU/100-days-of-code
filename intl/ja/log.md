@@ -439,3 +439,15 @@
  
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 33日目: 2020年9月6日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 3
+
+**思ったこと**  
+   * DPの本質をつかみたいのう
+ 
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
