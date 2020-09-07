@@ -451,3 +451,15 @@
  
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 34日目: 2020年9月7日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 1
+
+**思ったこと**  
+   * 鶏肉にあったたきがする。おなかが痛くてつらいので早く寝よう
+ 
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
