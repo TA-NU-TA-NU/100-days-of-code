@@ -463,3 +463,15 @@
  
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 35日目: 2020年9月8日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 2
+
+**思ったこと**  
+   * おなか痛いけどDPするよ。テーブルを使ったDPと再帰DPだと実装がこんがらがる。ナップサックは再帰だと書けるのにテーブルに書き直そうとすると混乱。
+ 
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
