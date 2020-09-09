@@ -475,3 +475,15 @@
  
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 36日目: 2020年9月9日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 2
+
+**思ったこと**  
+   * まだまだおなか痛いけどDPするよ。ナップサックのテーブルDPを使ったもらう・配るDPをそれとなく理解。表の定義と取り扱いが難しい印象。
+
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
