@@ -487,3 +487,15 @@
 
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 37日目: 2020年9月10日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 2
+
+**思ったこと**  
+   * DPにむきあう。DPの状態変数と遷移パターンを整理することはできるようになった。定義したDPテーブルに最適なルールで更新するところを慣れていきたい。
+
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
