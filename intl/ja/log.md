@@ -514,3 +514,17 @@
 
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 39日目: 2020年9月12日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 1
+  * ・環境構築
+
+
+**思ったこと**  
+   * 引き続き環境構築。Ubuntu周りはよくわからないのですごい手探り。
+
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
