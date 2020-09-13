@@ -528,3 +528,17 @@
 
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 40日目: 2020年9月13日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 3
+  * ・ABC178 でたよ。
+
+
+**思ったこと**  
+   * C問題。包除原理で整理すれば行けるって高校数学でしたね。数学よわよわ勢なのでこういう問題を通して基礎的な部分も鍛えていかなきゃとおもいました　まる
+
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
