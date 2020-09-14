@@ -542,3 +542,17 @@
 
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 41日目: 2020年9月14日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 1
+  * ・環境構築
+
+
+**思ったこと**  
+   * 環境構築の傍らDPテーブルを使った問題をなんとか解いた。表の定義が難しい。はまれば実装は意外に楽。これは慣れの問題なのかー
+
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
