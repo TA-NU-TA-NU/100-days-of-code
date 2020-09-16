@@ -572,3 +572,18 @@
 
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 43日目: 2020年9月16日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 2
+  * ・DP
+
+
+**思ったこと**  
+   * ちょっとずつDPを自力ACできるようになってきた。練習あるのみ。
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
