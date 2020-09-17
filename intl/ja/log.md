@@ -587,3 +587,17 @@
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
 
+***
+### 44日目: 2020年9月17日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 4
+  * ・DP
+
+
+**思ったこと**  
+   * DPの更新時の制約が激しくなると添え字が狂ったりしてデバッグに時間が吸われちゃう。犯し易いミスの傾向はつかめるけどつらいね。
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
