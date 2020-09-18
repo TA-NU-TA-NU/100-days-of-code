@@ -601,3 +601,18 @@
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
 
+***
+### 45日目: 2020年9月18日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 2
+  * ・DP
+  * ・環境構築
+
+
+**思ったこと**  
+   * 環境構築つらたん。自由度が高い分設定が大変なのね
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
