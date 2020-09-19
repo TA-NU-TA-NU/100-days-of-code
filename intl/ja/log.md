@@ -616,3 +616,17 @@
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
 
+***
+### 46日目: 2020年9月19日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 2
+  * ・ABC179でたよ
+
+
+**思ったこと**  
+   * 灰色でレート下がるとか鼻くそすぎて笑えない。
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
