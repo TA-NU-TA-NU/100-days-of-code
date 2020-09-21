@@ -647,3 +647,17 @@
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
 
+
+***
+### 48日目: 2020年9月21日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 2
+
+
+**思ったこと**  
+   * いもす法の典型問題から。落ちものパズルが積みあがった後にその輪郭をなぞる感じに思う。
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
