@@ -673,3 +673,17 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+
+***
+### 50日目: 2020年9月23日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 4
+
+
+**思ったこと**  
+   * いもす法と累積和ふくしゅー　発想は似てても使い分けれるようにならなきゃね。二次元累積和もやってみたよ。
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
