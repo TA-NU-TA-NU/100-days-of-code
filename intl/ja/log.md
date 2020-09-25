@@ -701,3 +701,17 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 52日目: 2020年9月25日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 1
+  * ・環境構築
+
+
+**思ったこと**  
+   * デバッグ周りをいじくっていたらこんな時間に…
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
