@@ -715,3 +715,17 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 53日目: 2020年9月26日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 4
+  * ・環境構築
+
+
+**思ったこと**  
+   * これDPでできそうってのは気づくことができるけどひねりのいるDPに太刀打ちできないのであった…
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
