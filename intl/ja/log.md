@@ -756,3 +756,16 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 56日目: 2020年9月29日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 5
+
+
+**思ったこと**  
+   * 考えたことの各ステップはちゃんとメモっておくと答え合わせの時に自分がどこで迷子になり始めたのかわかりやすい。
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
