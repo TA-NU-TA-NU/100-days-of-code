@@ -769,3 +769,16 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 57日目: 2020年9月30日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 2
+
+
+**思ったこと**  
+   * 残業は生活リズムが崩れるからよくないね…　自粛したいぜ
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
