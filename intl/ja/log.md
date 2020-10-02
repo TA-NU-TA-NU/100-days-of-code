@@ -807,3 +807,16 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+
+***
+### 59日目: 2020年10月2日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 2
+
+**思ったこと**  
+   * 複数変数が出たときに一つの変数を固定して全探索をしてみるっていうのが時々頭から抜け落ちてしまうのだ…
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
