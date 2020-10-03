@@ -820,3 +820,16 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+
+***
+### 60日目: 2020年10月3日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 3
+
+**思ったこと**  
+   * コーナーケースに苦しめられる。いくつかのWAが埋まらぬ歯がゆさよ…
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
