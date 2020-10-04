@@ -833,3 +833,16 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+
+***
+### 61日目: 2020年10月4日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 1
+
+**思ったこと**  
+   * 今日は結婚式に出席のためあんまりできず。朝早くに起きて少しやったくらい。生活リズムを戻して明日からがんばろー
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
