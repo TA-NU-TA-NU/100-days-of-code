@@ -859,3 +859,15 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 63日目: 2020年10月6日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 1
+
+**思ったこと**  
+   * 今回は数直線上のマンハッタン距離の最小化で中央値の利用という考え方を学んだ。差の総和の最小化は分布を配列に入れてソートして真ん中を調べに行く！
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
