@@ -871,3 +871,17 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 64日目: 2020年10月7日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 4
+  * 遅延セグメント木
+
+**思ったこと**  
+   * 遅延セグメント木は更新部分を一時的に入れて保持しておく器みたいな使われ方をするなとおもった。
+   
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
