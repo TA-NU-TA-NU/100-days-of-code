@@ -885,3 +885,17 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 65日目: 2020年10月8日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 3
+  * セグメント木
+
+**思ったこと**  
+   * セグメント木上では二分探索がしやすい。完全二分木であることで下のノードに向かうこと自体が探索範囲の縮小になる。セグメント木は本当に柔軟性が高いと感じた。
+   
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
