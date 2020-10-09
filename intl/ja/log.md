@@ -899,3 +899,16 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 66日目: 2020年10月9日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 3
+
+**思ったこと**  
+   * 頻繁な更新がなく、特定の区間の要素数の数え上げや項の差を求めると嬉しいときには累積和をつかうといいことがあることがあったりなかったり。
+   
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
