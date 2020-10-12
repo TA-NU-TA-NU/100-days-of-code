@@ -938,4 +938,17 @@
    
    
 **リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan)
+
+***
+### 69日目: 2020年10月12日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 6
+
+**思ったこと**  
+   * 貪欲法とか法則性を見つけてとくとかそのあたりの問題が多めだった。偶奇や単純なパターンから詰めてくとか閃くまで文字列ガチャガチャとかそういった見方も時には大切
+   
+   
+**リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
