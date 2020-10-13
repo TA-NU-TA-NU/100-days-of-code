@@ -952,3 +952,16 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 70日目: 2020年10月13日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 3
+
+**思ったこと**  
+   * ラムダ式をかければ複雑なデータ構造を柔軟に取り扱えて便利だけどあまりよく理解できない。javaの不便な側面のカバーとしてデータ構造を操作するときの選択肢として持っていたら強いと感じる。
+   
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
