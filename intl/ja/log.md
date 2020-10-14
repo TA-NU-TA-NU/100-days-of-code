@@ -965,3 +965,16 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 71日目: 2020年10月14日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 7
+
+**思ったこと**  
+   * 制約をみてループの深さを察するのに慣れてきた。仕事でもコードの高速化について計算量の考察は役立ってる
+   
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
