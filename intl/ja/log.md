@@ -1004,3 +1004,17 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 74日目: 2020年10月17日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 3
+  * ・ABC180でたよ
+
+**思ったこと**  
+   * D問題をこねくり回した挙句解けなかったのはつらいな…
+   
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
