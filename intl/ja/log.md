@@ -1018,3 +1018,17 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 75日目: 2020年10月18日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 4
+
+**思ったこと**  
+   * とある計算がオーバーフローしないかどうか確かめるときに
+   `Math.multiplyExact(X , A)`を使ってArithmeticExceptionをtry-catchで捕捉すればよいことを知った！
+   
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
