@@ -1026,8 +1026,8 @@
   * ・Atcoder AC * 4
 
 **思ったこと**  
-   * とある計算がオーバーフローしないかどうか確かめるときに
-   `Math.multiplyExact(X , A)`を使ってArithmeticExceptionをtry-catchで捕捉すればよいことを知った！
+   * `a*b`がオーバーフローしないかどうか確かめるときに
+   `Math.multiplyExact(a , b)`を使ってArithmeticExceptionをtry-catchで捕捉すればよいことを知った！
    
    
 **リンク** 
