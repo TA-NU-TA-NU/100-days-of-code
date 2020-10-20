@@ -1045,3 +1045,15 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 77日目: 2020年10月20日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 2
+
+**思ったこと**  
+   * 複数の変数が絡んだ問題では、「仮にこの変数が決まったとしたらどうなるか？」「連鎖的に他の値が導出できるか？」といった問いの投げ方も大切っぽい。
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
