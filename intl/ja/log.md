@@ -1070,3 +1070,16 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+
+***
+### 79日目: 2020年10月22日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 1
+
+**思ったこと**  
+   * TLE祭り
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
