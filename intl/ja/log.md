@@ -1083,3 +1083,15 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+
+***
+### 80日目: 2020年10月23日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 3
+
+**思ったこと**  
+   * グラフの扱いが上手になれたらと思う。グラフの考察とかが場数ふんでないために解法が立たない場面が多いなと感じる。
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
