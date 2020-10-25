@@ -1108,3 +1108,17 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan)
+
+
+***
+### 82日目: 2020年10月25日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 2 
+  * ・UnionFind
+
+**思ったこと**  
+   * UnionFindはクラスとして作っておいてカスタマイズを受け付けれる形にしておく。適切にグループ分けした後の木のサイズを求める問題では早速ライブラリを拡充。今度は重み付きをやっていくぞー
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan)
