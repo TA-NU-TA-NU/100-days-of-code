@@ -1094,4 +1094,17 @@
    * グラフの扱いが上手になれたらと思う。グラフの考察とかが場数ふんでないために解法が立たない場面が多いなと感じる。
    
 **リンク** 
-[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan) 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan)
+
+***
+### 81日目: 2020年10月24日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 1
+  * ・UnionFind
+
+**思ったこと**  
+   * UnionFindやったよ。木構造を上手に使って集合のグループ分けをする。クラスとメソッドをかきながら検索や統合がどのように実現されているのかをみた。実際に問題を解けるようになるにはこれを上手に使いこなせるようになる必要があるみたい。
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan)
