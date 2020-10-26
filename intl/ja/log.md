@@ -1122,3 +1122,16 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan)
+
+***
+### 83日目: 2020年10月26日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 2 
+  * ・重みつきUnionFind
+
+**思ったこと**  
+   * UnionFindクラスに重みを管理させる配列を加えて重みつきUnionFindとして修正。そのほかメソッドを微修正する。解法を考えてUnionFindに帰着できるたらクラスよんでメソッド駆使して終了になってくれればいいのに（願望）
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan)
