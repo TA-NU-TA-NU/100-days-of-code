@@ -1135,3 +1135,15 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan)
+
+***
+### 84日目: 2020年10月27日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 5
+
+**思ったこと**  
+   * 足し算掛け算みたく　処理順序が前後しても問題ない　→　都合がいいように処理順序を組み立てられる　っていう持っていきかたは素朴だけど大切な気づきだと感じた。
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan)
