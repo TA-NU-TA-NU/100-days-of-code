@@ -1160,3 +1160,16 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan)
+
+
+***
+### 86日目: 2020年10月29日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 1
+
+**思ったこと**  
+   * エラトステネスの篩やそれを応用した或いは類似した考え方の問題っていがいと出るね。解法パターンの一つとして覚えておきたいところ。
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan)
