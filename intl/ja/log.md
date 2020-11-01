@@ -1186,3 +1186,17 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan)
+
+
+***
+### 88日目: 2020年11月1日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 3
+  * ・ABC181でたよ
+
+**思ったこと**  
+   * つらい！なぜ本番によわいのか…
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan)
