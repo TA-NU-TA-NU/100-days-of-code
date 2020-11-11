@@ -1310,3 +1310,16 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan)
+
+
+***
+### 98日目: 2020年11月11日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 2
+
+**思ったこと**  
+   * DPをつかった問題久々にといたー！知識が結晶化してなくて、少し日を置いて使うと少し不安がよぎる。脳内にインデックスはあるものの引っ張り出しきれない感じがもどかしい。
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan)
