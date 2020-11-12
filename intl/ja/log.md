@@ -1323,3 +1323,16 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan)
+
+
+***
+### 99日目: 2020年11月12日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 1
+
+**思ったこと**  
+   * ちゃんと寝ないと頭動かんぜ！生活習慣みなおそう
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan)
