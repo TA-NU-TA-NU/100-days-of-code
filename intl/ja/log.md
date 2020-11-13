@@ -1336,3 +1336,16 @@
    
 **リンク** 
 [たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan)
+
+
+***
+### 100日目: 2020年11月13日
+
+**今日の進捗**: 
+  * ・Atcoder AC * 3
+
+**思ったこと**  
+   * 100日やった！！
+   
+**リンク** 
+[たぬ @Tanu_ChanChan ](https://twitter.com/Tanu_ChanChan)
